@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Alt text](https://wakapi.deadplays.fr/api/activity/chart/Axiome.svg)
+![Alt text](https://wakapi.deadplays.fr/api/activity/chart/Axiome.svg)
 
 <!--
 **AxiomePro/AxiomePro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
